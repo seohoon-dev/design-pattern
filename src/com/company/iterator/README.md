@@ -1,3 +1,6 @@
+# Iterator Pattern
+![image](https://user-images.githubusercontent.com/25922366/128185002-6a33bc90-0a08-4c63-928c-95d9eb0578e1.png)
+
 # 장점
 단일 책임 원칙 . 부피가 큰 순회 알고리즘을 별도의 클래스로 추출하여 클라이언트 코드와 컬렉션을 정리할 수 있습니다. 
 
