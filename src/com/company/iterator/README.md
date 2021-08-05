@@ -1,4 +1,5 @@
 # Iterator Pattern
+컬렉션 구현 방법을 노출시키지 않으면서도 그 집합체 안에 들어있는 항목을 순회할 수 있도록 하는 행동 패턴이다.
 ![image](https://user-images.githubusercontent.com/25922366/128185002-6a33bc90-0a08-4c63-928c-95d9eb0578e1.png)
 
 # 장점
