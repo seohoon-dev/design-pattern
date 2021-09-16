@@ -1,4 +1,4 @@
-# Compostie Pattern
+# Composite Pattern
 ![image](https://user-images.githubusercontent.com/25922366/133531873-240ca508-cfa9-42cc-8202-4e3df3eda4ab.png)
 
 객체들의 관계를 트리 구조로 구성하여 부분-전체 계층을 표현하는 패턴으로, 사용자가 단일 객체와 복합 객체 모두 동일하게 다루도록 한다.
